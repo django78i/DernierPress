@@ -1,0 +1,2 @@
+modification : C:\wamp64\www\wordpress\wp-content\uploads\the7-css\compatibility 
+		=> modification de product :{margin: 0px 10px 0px 10px;} 
